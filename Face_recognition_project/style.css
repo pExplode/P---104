@@ -1,0 +1,11 @@
+body{
+    background-color:bisque;
+}
+
+#heading{
+ background-color: burlywood;
+}
+
+.name_of_people , .result_person_name , .result_person_accuracy{
+    color:rgb(161, 145, 18)
+}
